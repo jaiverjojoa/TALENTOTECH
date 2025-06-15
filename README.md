@@ -1,2 +1,2 @@
 # TALENTOTECH
-Ejercicios de desarrollados de TalentoTECH
+Ejercicios de desarrollados de TalentoTECH Jaiver
